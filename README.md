@@ -3,6 +3,10 @@ GettingStartedWithGithub
 
 A repository for the Getting Started with Github talk
 
+# Slides
+
+https://docs.google.com/presentation/d/1X33RNZCo7ldVUKZbcr18Gg-p0h0W1LxEk01ibpSlIWc/present?slide=id.p
+
 # Contributing
 
 1. Install a text editor
